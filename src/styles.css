@@ -137,6 +137,12 @@ aside.menu-sidebar.d-none.d-lg-block.clr {
   box-shadow: -2px 0 4px #0000003b;
 }
 
+.custom-table td,
+.custom-table th {
+  border: 1px solid #dee2e6; /* Customize the border color if desired */
+}
+
+
 /* 
  * ----------------------------
  * Header Desktop Section
