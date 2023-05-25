@@ -81,7 +81,7 @@ export class CartService {
     if (theCartItem.quantity === 0) {
       this.remove(theCartItem);
     } else {
-      this.computeCartTotals;
+      this.computeCartTotals();
     }
   }
 
